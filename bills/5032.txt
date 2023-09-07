@@ -1,0 +1,16 @@
+	                   WELCOME
+ Bill Number : 5032
+ Customer Name : Sanket Anil Bhamre
+ Phone Number : 8530756617
+ Customer Email : sanketbhamare77@gmail.com
+ ========================================
+ Products 		        QTY 	 	Price
+ ======================================== Galaxy F23		           1		15999
+ Galaxy F23		           1		15999
+ Galaxy F23		           1		15999
+
+ ========================================
+ Sub Amount:		Rs.63996.00
+ Tax Amount:		Rs.5759.64
+ Total Amount:		Rs.69755.64
+ ========================================

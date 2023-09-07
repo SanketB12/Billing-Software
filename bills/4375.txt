@@ -1,0 +1,17 @@
+	                   WELCOME
+ Bill Number : 4375
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ========================================
+ Products		     QTY		Price
+ ========================================
+ Y31		      1		7999
+ Y31		      1		7999
+ Y31		      1		7999
+
+ ========================================
+ Sub Amount:	Rs.23997.00
+ Tax Amount:	Rs.2159.73
+ Total Amount:	Rs.26156.73
+ ========================================

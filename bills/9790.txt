@@ -1,0 +1,17 @@
+	                   WELCOME
+ Bill Number : 9790
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ========================================
+ Products 		        QTY 	 	Price
+ ======================================== Reno7 Pro		           1		39999
+ Reno7 Pro		           1		39999
+ Reno7 Pro		           1		39999
+ Reno7 Pro		           1		39999
+
+ ========================================
+ Sub Amount:		Rs.199995.00
+ Tax Amount:		Rs.17999.55
+ Total Amount:		Rs.217994.55
+ ========================================

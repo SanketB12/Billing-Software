@@ -1,0 +1,20 @@
+	                   WELCOME
+ Bill Number : 7424
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ========================================
+ Products		     QTY		Price
+ ========================================
+ Y31		      1		7999
+ Y31		      1		7999
+ Y31		      1		7999
+ Y31		      1		7999
+
+ ========================================
+ Sub Amount   :	Rs.31996.00
+ Tax Amount   :	Rs.1599.80
+ Total Amount :	Rs.33595.80
+ Discount     :	Rs.500
+ Grand Total  :	Rs.33095.80
+ ========================================

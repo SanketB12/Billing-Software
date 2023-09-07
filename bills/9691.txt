@@ -1,0 +1,17 @@
+	                   WELCOME
+ Bill Number : 9691
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ========================================
+ Products		     QTY		Price
+ ========================================
+ X60 Pro		      1		49990
+ X60 Pro		      1		49990
+ X60 Pro		      1		49990
+
+ ========================================
+ Sub Amount:		Rs.149970.00
+ Tax Amount:		Rs.13497.30
+ Total Amount:		Rs.163467.30
+ ========================================
